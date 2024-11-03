@@ -1,1 +1,1 @@
-# This is the project in which it shows 2022-23 Erling Haaland's ways of goals scoring also from where he has scored itand also what is his average distance 
+# This is the project in which it shows 2022-23 English Permier League Season's Manchester City's football player Erling Haaland's ways of goals scoring also from where he has scored itand also what is his average distance of shot taken. 
